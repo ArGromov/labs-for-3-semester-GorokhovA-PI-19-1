@@ -24,3 +24,4 @@ public class exapmle1 {
             System.out.println("Ошибка!!! "+e);
         }
     }}
+
